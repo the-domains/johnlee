@@ -2,6 +2,7 @@ name: johnlee
 favicon: null
 layout_spectrum: 0.4060113097075373
 typography_spectrum: 0.322411390254274
+title: Test
 cta:
   domain: null
   bucket: null
