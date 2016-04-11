@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Test]]></title>
         <description><![CDATA[Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/johnlee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:10:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 21:11:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johnlee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Wow this is overwhelmingly underwhelming. I waited a year for this LOL.</p>]]></description>
+            <link>https://thegrid.ai/johnlee/4f653059-6540-4205-9962-66e8742f54f7/index.html</link>
+            <guid isPermaLink="false">4f653059-6540-4205-9962-66e8742f54f7</guid>
+            <pubDate>Mon, 11 Apr 2016 21:10:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid]]></title>
             <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
