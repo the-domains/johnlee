@@ -1,0 +1,28 @@
+name: johnlee
+favicon: null
+layout_spectrum: 0.4060113097075373
+typography_spectrum: 0.322411390254274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.036961601581424475
+  lightness: 0.4195833832491189
+  saturation: 0.8739049371797591
+  rhythmicContrast: 0.5570806772448123
+purpose: []
